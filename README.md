@@ -1,5 +1,5 @@
 # 💫 About Me:
-@KronosTTV Solo developer behind PVEstrap, 'PVE' is a whole suite of programs designed for your Windows Machine and a set of tools for automating and optimizing AFK-ing in Roblox Experiences while keeping everything as beginner/user-friendly as possible.
+@KronosTTV(Discord) Solo developer behind PVEstrap, 'PVE' is a whole suite of programs designed for your Windows Machine and a set of tools for automating and optimizing AFK-ing in Roblox Experiences while keeping everything as beginner/user-friendly as possible.
 
 
 ## 🌐 Socials:
