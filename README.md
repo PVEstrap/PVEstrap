@@ -10,7 +10,7 @@
 
 
 ### Need a way to contact Us?  
-Email: [contact@pvestrap.com](mailto:contact@pvestrap.com)
+Email: [contact@pvestrap.com](mailto:contact@pvestrap.com)  
 Website: [pvestrap.com/contact](https://pvestrap.com/contact)  
 Discord: [discord.gg/CjHwVvgbNU](https://discord.gg/CjHwVvgbNU)
 
