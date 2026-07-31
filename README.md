@@ -6,7 +6,7 @@
 
 #
 
-> ### <i>"C++ devs don’t fix bugs, they file a peace treaty with undefined behavior and hope it holds prod"</i> - Kronos
+> ### <i>"C filters out weak the weak."</i> - Kronos
 
 
 ### Need a way to contact Us?  
@@ -47,4 +47,4 @@ Arch Linux‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Windows
 ### PVEstrap Memory Manager [PVEMM] - (Private Project).
 ** **
 
-[Discord](https://discord.gg/CjHwVvgbNU) - [Website](https://pvestrap.com) - [Github](https://www.github.com/pvestrap) - [Email](mailto:contact@pvestrap.com)
+[Discord](https://discord.gg/CjHwVvgbNU) - [Website](https://pvestrap.com) -  [Email](mailto:contact@pvestrap.com)
