@@ -6,7 +6,7 @@
 
 #
 
-> ### <i>"C filters out weak the weak."</i> - Kronos
+> ### <i>"C filters out the weak."</i> - Kronos
 
 
 ### Need a way to contact Us?  
