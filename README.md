@@ -30,7 +30,7 @@ Arch Linux‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Windows
 
 ## Projects
 ### PVEstrap.com - (Private Project)
-### PVEstrap.bio - (Private Project)
+### PVE.bio - (Private Project)
 ### PVEstrap Bootstrapper [PVEB] - (Private Project)
 ### PVEstrapWin [PVEW] - (Private Project)
 ### PVEstrapInput [PVEI] - (Private Project)
